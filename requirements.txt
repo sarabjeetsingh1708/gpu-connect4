@@ -1,0 +1,2 @@
+numba>=0.58
+numpy
